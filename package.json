@@ -7,7 +7,7 @@
     "start": "node index",
     "dev": "nodemon index"
   },
-  "keywords": [],
+  "keywords": ["mailchimp", "mailchimp-api-version-3", "newsletter"],
   "author": "",
   "license": "ISC",
   "dependencies": {
